@@ -1,0 +1,28 @@
+* main {
+
+    margin: 10px 100px
+}
+
+body {
+    background-color: #F6E2C1;
+}
+
+header {
+    background-color: #FFDA9E;
+    display: flex;
+    justify-content: space-around;
+    padding: 12px 0px;
+}
+
+.titulo-lema {
+    list-style-type: none;
+}
+
+.links-do-topo-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.receita-foto {
+   width: 20%; 
+} 
